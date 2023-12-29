@@ -13,7 +13,10 @@
     "jsx": "preserve",
     // baseUrl allows to absolute paths but you also have to add the alias in .neutrinorc.js
     "baseUrl": "src",
-    "types": ["node", "jest"],
+    "types": [
+      "node",
+      "jest"
+    ],
   },
   "include": [
     "src",
